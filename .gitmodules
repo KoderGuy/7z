@@ -1,0 +1,27 @@
+[submodule "C/zstd"]
+	path = C/zstd
+	url = https://github.com/facebook/zstd.git
+[submodule "C/zstdmt"]
+	path = C/zstdmt
+	url = https://github.com/mcmilk/zstdmt.git
+	branch = master
+[submodule "C/fast-lzma2"]
+	path = C/fast-lzma2
+	url = https://github.com/mcmilk/zstdmt.git
+	branch = master
+[submodule "C/lizard"]
+	path = C/lizard
+	url = https://github.com/inikep/lizard.git
+	branch = lizard
+[submodule "C/lz5"]
+	path = C/lz5
+	url = https://github.com/inikep/lizard.git
+	branch = lz5_v2.0
+[submodule "C/lz4"]
+	path = C/lz4
+	url = https://github.com/lz4/lz4.git
+	branch = release
+[submodule "C/lzham_codec"]
+	path = C/lzham_codec
+	url = https://github.com/richgel999/lzham_codec.git
+	branch = master
